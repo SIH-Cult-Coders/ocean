@@ -1,6 +1,10 @@
 
 # README for FloatChat: AI-Powered Conversational Interface for Ocean Data
 
+## Resources  
+All relevant project resources including datasets, scripts, documentation, and visualization assets are located in the root folder:  
+**`/resources`**
+
 ## Project Overview
 
 FloatChat is a next-generation platform designed to democratize access to oceanographic data by combining scientific data processing with advanced AI-powered conversational capabilities. It transforms raw ARGO ocean float data into an interactive, explainable, and scientifically rigorous chat system that enables users to query, visualize, and analyze ocean data without needing specialized coding skills.
