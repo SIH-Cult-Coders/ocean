@@ -1,0 +1,19 @@
+
+To access the Argo Global Data Repository via FileZilla, use the following details:
+
+Host: ftp.ifremer.fr
+Port: 21 (default FTP port)
+Username: anonymous
+Password: (leave blank)
+
+Step-by-step guide for FileZilla:
+Open FileZilla.
+In the Host field, enter: ftp.ifremer.fr
+Leave Port as 21.
+For Username, enter: anonymous
+For Password leave it blank.
+Click Quickconnect.
+
+You should see the directory structure of the Argo FTP server, where you can navigate folders and download NetCDF files.
+
+or use this website to view and download from web(not recomended) - https://data-argo.ifremer.fr
