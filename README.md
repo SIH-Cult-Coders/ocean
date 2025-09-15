@@ -1,8 +1,3 @@
-# ocean
-
-To help create a clear, organized, and detailed README for your project with assigned tasks, I will draft a suitable structure and content based on the provided detailed approach document and your proposed team roles. The README will describe the project, its goals, architecture, and specifically the work division with responsibilities for each member.
-
-***
 
 # README for FloatChat: AI-Powered Conversational Interface for Ocean Data
 
